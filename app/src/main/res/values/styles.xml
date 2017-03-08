@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:buttonStyle">@style/estiloboton</item>
+        <item name="buttonStyle">@style/estiloboton</item>
+        <item name="android:actionBarStyle">@style/actionbar_uni</item>
+        <item name="actionBarStyle">@style/actionbar_uni</item>
+    </style>
+
+    <style name="estiloboton" parent="android:Widget.Button">
+        <item name="android:background">@drawable/estiloboton1</item>
+        <item name="android:textColor">@color/texto_claro</item>
+        <item name="background">@drawable/estiloboton1</item>
+    </style>
+    <style name="actionbar_uni" parent="android:Widget.ActionBar">
+        <item name="android:background">@color/texto_oscuro</item>
+        <item name="background">@color/texto_oscuro</item>
+    </style>
+    <style name="titulo_item_lista" parent="android:Widget.TextView">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:textColor">@color/texto_oscuro</item>
+    </style>
+    <color name="texto_claro">#FFD1E7</color>
+    <color name="texto_oscuro">#ff0000</color>
+</resources>

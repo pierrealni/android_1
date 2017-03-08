@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Guía Perú</string>
+    <string name="app_title">Guía Turística del Perú</string>
+    <string name="mensaje">Bienvenidos</string>
+    <string name="action_mensaje">Cambiar Mensaje</string>
+    <string name="action_titulo">Viajero Peru</string>
+    <string name="action_cerrar">Cerrar</string>
+    <string name="title_activity_fotos">Galeria de Fotos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="web_android">android.com</string>
+    <string name="lista_ciudades">Ciudades</string>
+    <string name="title_activity_ciudad_seleccionada">CiudadSeleccionadaActivity</string>
+    <string name="title_activity_paises">PaisesActivity</string>
+    <string name="title_activity_paises2">Paises2Activity</string>
+    <string name="title_activity_continentes">ContinentesActivity</string>
+</resources>
